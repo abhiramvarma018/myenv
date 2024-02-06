@@ -1,0 +1,5 @@
+Flask
+opencv-python
+pip install cmake
+pip install boost
+pip install dlib
